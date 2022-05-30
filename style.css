@@ -1,0 +1,22 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: url(unnamed1.png);
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+}
+
+.logo{
+    width: 25%;
+    background: url(unnamed2.png);
+    background-position: center;
+    background-size: cover;
+    margin-left: 100px;
+    margin-top: 10px;
+    height: 15px;
+}

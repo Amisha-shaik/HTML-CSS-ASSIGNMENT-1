@@ -1,4 +1,4 @@
-.{
+*{
     margin: 0;
     padding: 0;
 }
@@ -8,7 +8,7 @@
     background: url(unnamed1.png);
     background-position: center;
     background-size: cover;
-    height: 100vh;
+    height: 90vh;
 }
 
 .logo{
@@ -88,11 +88,10 @@
 
 .btn a{
     color: #fff;
-    margin-right: 40px;
+    margin-right: 30px;
+    padding-left: 6px;
+    
 }
 .form h3{
     margin-left:35px;
 }
-
-
-
